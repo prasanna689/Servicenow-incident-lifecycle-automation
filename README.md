@@ -86,3 +86,12 @@ the Incident Management lifecycle using ServiceNow ITSM.
 
 ## Author
 Lakshmi Prasanna Dodda
+## Author
+
+**Lakshmi Prasanna Dodda**
+
+Aspiring ServiceNow Developer | ServiceNow Administrator
+
+### Certifications
+- ServiceNow Certified System Administrator (CSA)
+- ServiceNow Certified Application Developer (CAD)
