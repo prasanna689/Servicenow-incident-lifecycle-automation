@@ -1,7 +1,5 @@
 # Servicenow-incident-lifecycle-automation
 Incident Lifecycle Automation project using ServiceNow ITSM
-# ServiceNow Incident Lifecycle Automation
-
 ## Project Overview
 
 This project demonstrates the automation and standardization of
@@ -37,23 +35,14 @@ the Incident Management lifecycle using ServiceNow ITSM.
 - Service Catalog
 
 ## Project Workflow
-
-1. Service Creation
-2. Service Offering Creation
-3. Incident Creation
-4. Incident Classification
-5. Agent Assist
-6. Reassignment to Level 2
-7. Level 2 Verification
-8. Emergency Change Request
-9. Child Incident Creation
-10. Incident Resolution
-11. Knowledge Article Creation
-12. Final Validation
+[Watch the ServiceNow Screenshots](https://drive.google.com/drive/folders/12ZO2sPtiq4os3I6_EdOpDa-tbsV6jDz0)
 
 ## Project Demo
 
 🎥 [Watch the Project Demo](https://drive.google.com/drive/folders/16A_Mb2iJJ05CPORutACb2ajSRJSj_Yus)
+
+[watch the project Documentation](https://drive.google.com/drive/folders/1iebNmZUN0JB8C4IWI6mdRQDTgut7u1LD)
+
 
 ## Screenshots
 
